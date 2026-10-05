@@ -4,6 +4,13 @@ A location-based platform connecting tourists with verified local people in
 Nairobi, Kenya. Built with Flutter (Dart) following the object-oriented
 design in Chapter 4 of the project documentation.
 
+## Live demo
+
+Try the app in your browser (no install needed):
+https://agreygorwa-sketch.github.io/nativego-app/
+
+Use the demo accounts below to log in.
+
 ## What is implemented
 
 - **Authentication & roles** — tourist / local provider registration and
